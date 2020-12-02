@@ -1,8 +1,8 @@
-.h1 {
+h1 {
   font-family: "Times New Roman", Times, serif;
-  color: red;
+  color: mediumblue;
   text-align: center
 }
-.p {
+p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
